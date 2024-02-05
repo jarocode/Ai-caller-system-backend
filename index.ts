@@ -25,8 +25,7 @@ You: Of course, have a great day! Goodbye.
 
 // Headers
 const headers = {
-  authorization:
-    "sk-g5agpvop69fb1d71zllevfmrfnc3t6nv3eryy3o46tc8ih0oiz6kfknv23jfmxub69",
+  authorization: "",
 };
 
 // Data
